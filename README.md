@@ -182,5 +182,3 @@ git push origin feature-branch-name
 Submit a pull request to the main repository, describing the changes you’ve made and why. The repository maintainers will review your contribution and merge it if everything looks good.
 
 Your contributions help improve this repository and provide more learning resources for Python enthusiasts!
-
----
