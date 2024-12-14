@@ -28,13 +28,13 @@ The repository is structured into specific sections, each targeting a fundamenta
 The repository contains the following folders and notebooks:
 
 ```bash
-Python-Data-Handling-and-Visualization/
+Python_Data_Handling_and_Visualization/
 │
 ├── Handling_Missing_Values/
-│   ├── Arbitrary_Value_Imputation_.ipynb         # Imputes missing data with arbitrary values
+│   ├── Arbitrary_Value_Imputation.ipynb         # Imputes missing data with arbitrary values
 │   ├── Mean_Median_Mode_Imputation.ipynb         # Demonstrates imputation using mean, median, or mode
 │   ├── Random_sample_Imputation.ipynb            # Shows how to use random samples for missing data imputation
-│   ├── Start_End_Of_Distribution_Imputation_.ipynb # Imputes missing values based on the start or end of the distribution
+│   ├── Start_End_Of_Distribution_Imputation.ipynb # Imputes missing values based on the start or end of the distribution
 │   ├── Handling_categorical_missing_data.ipynb    # Focuses on handling missing data in categorical features
 │   ├── Missing_Values.ipynb                      # General overview of strategies for handling missing data
 │
@@ -60,7 +60,7 @@ Each notebook focuses on specific topics, making it easy for learners to follow 
 
 ### Handling Missing Values
 
-- **Arbitrary_Value_Imputation_.ipynb**  
+- **Arbitrary_Value_Imputation.ipynb**  
   This notebook demonstrates a method for handling missing values by imputing them with arbitrary values. This approach is commonly used when a more complex imputation technique is not suitable or necessary for the dataset at hand.
 
 - **Mean_Median_Mode_Imputation.ipynb**  
@@ -69,7 +69,7 @@ Each notebook focuses on specific topics, making it easy for learners to follow 
 - **Random_sample_Imputation.ipynb**  
   This notebook covers the technique of random sample imputation, where missing values are replaced by randomly chosen values from the observed data. This method aims to preserve the overall distribution of the dataset.
 
-- **Start_End_Of_Distribution_Imputation_.ipynb**  
+- **Start_End_Of_Distribution_Imputation.ipynb**  
   This notebook introduces a technique for imputing missing values at the start or end of a data distribution. This method is particularly useful when dealing with edge cases or outliers in the data.
 
 - **Handling_categorical_missing_data.ipynb**  
@@ -123,7 +123,7 @@ Each notebook is designed to be interactive, allowing users to experiment with t
 Clone the repository to your local machine or use it directly in Google Colab. To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/Hatsuhinode/Python-Data-Handling-and-Visualization.git
+git clone https://github.com/Hatsuhinode/Python_Data_Handling_and_Visualization.git
 ```
 
 Alternatively, you can open the notebooks directly in Google Colab.
