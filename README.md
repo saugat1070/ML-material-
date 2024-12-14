@@ -1,6 +1,6 @@
 # 📈 Data Handling and Visualization in Python
 
-This repository provides a comprehensive collection of Google Colab Notebooks designed to facilitate the handling, manipulation, and visualization of data using Python. It demonstrates the application of key techniques for managing missing data, performing data manipulation, and creating insightful visualizations. The notebooks make use of widely adopted Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to perform various data science tasks effectively.
+Welcome to the Python_Data_Handling_and_Visualization repository! This repository provides a comprehensive collection of Google Colab Notebooks designed to facilitate the handling, manipulation, and visualization of data using Python. It demonstrates the application of key techniques for managing missing data, performing data manipulation, and creating insightful visualizations. The notebooks make use of widely adopted Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to perform various data science tasks effectively.
 
 This repository serves as a valuable resource for anyone interested in learning how to handle data, manipulate datasets, and create meaningful visualizations using Python. The notebooks are structured to offer clear and practical examples of each technique, providing users with the tools needed to effectively tackle real-world data science challenges.
 
